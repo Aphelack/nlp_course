@@ -80,3 +80,5 @@ debian/files
 
 week01_embeddings/embeddings/
 week01_embeddings/quora.txt
+
+week02_lm/arxiv*
