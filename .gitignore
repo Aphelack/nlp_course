@@ -90,3 +90,5 @@ week03_attention/vocab.py
 week03_attention/=1.3.0
 week03_attention/train*
 week03_attention/bpe*
+
+week04_transfer/bert-ner/
