@@ -93,3 +93,5 @@ week03_attention/bpe*
 **/.env
 
 week06_prompting/aqua.json
+
+**/*.json
