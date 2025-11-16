@@ -99,3 +99,7 @@ week06_prompting/aqua.json
 **/checkpoint*/
 
 week07_finetuning/reward_model/
+
+week08_efficiency/kernel.cpp
+week08_efficiency/kernel.cu
+**/*.pt
