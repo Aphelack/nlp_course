@@ -76,7 +76,7 @@ debian/files
 *.substvars
 *.debhelper.log
 
-.venv/
+.venv*/
 
 week01_embeddings/embeddings/
 week01_embeddings/quora.txt
@@ -93,5 +93,13 @@ week03_attention/bpe*
 **/.env
 
 week06_prompting/aqua.json
-**/*log
+
 **/*.json
+
+**/checkpoint*/
+
+week07_finetuning/reward_model/
+
+week08_efficiency/kernel.cpp
+week08_efficiency/kernel.cu
+**/*.pt
